@@ -9,13 +9,13 @@
 </p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/USERNAME_LINKEDIN_KAMU">
+  <a href="https://www.linkedin.com/in/riyadhazhara/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/USERNAME_GITHUB_KAMU">
+  <a href="https://github.com/Iyaddhh">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="25" alt="GitHub" />
   </a>
-  <a href="mailto:EMAIL_KAMU@gmail.com">
+  <a href="mailto:riyadhazhara82@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="Email" />
   </a>
 </div>
@@ -28,7 +28,7 @@
 
 I'm a **Software Engineering Technology** student at **IPB University** specializing in both full-stack web development and applied artificial intelligence. 
 
-I focus on creating applications that are not only practical and maintainable but also "intelligent" leveraging machine learning algorithms to solve real-world automation, prediction, and optimization problems. I balance engineering agility with academic research rigor to deliver robust, well-documented solutions.
+I focus on creating applications that are not only practical and maintainable but also "intelligent"—leveraging machine learning algorithms to solve real-world automation, prediction, and optimization problems. I balance engineering agility with academic research rigor to deliver robust, well-documented solutions.
 
 - 🛠️ Currently developing systems that integrate robust web frameworks with predictive and optimization models.
 - 🧪 Experienced in full-stack architectures, modern backend deployment, exploratory data analysis (EDA), and model training.
@@ -94,7 +94,7 @@ I focus on creating applications that are not only practical and maintainable bu
 
 - Designing seamless integrations between Laravel ecosystem and trained predictive models.
 - Deepening knowledge in Reinforcement Learning and robust Feature Engineering.
-- Writing clean, maintainable enterprise ready code using proper architecture patterns in Laravel.
+- Writing clean, maintainable enterprise-ready code using proper architecture patterns in Laravel.
 - Ensuring strong research methodology and evaluation metrics in every tech solution.
 
 ---
@@ -102,10 +102,10 @@ I focus on creating applications that are not only practical and maintainable bu
 ## Connect with Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/USERNAME_LINKEDIN_KAMU">
+  <a href="https://www.linkedin.com/in/riyadhazhara/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
   </a>
-  <a href="mailto:EMAIL_KAMU@gmail.com">
+  <a href="mailto:riyadhazhara82@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
