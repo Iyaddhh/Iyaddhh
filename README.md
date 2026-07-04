@@ -30,8 +30,8 @@ I'm a **Software Engineering Technology** student at **IPB University** speciali
 
 I focus on creating applications that are not only practical and maintainable but also "intelligent"—leveraging machine learning algorithms to solve real-world automation, prediction, and optimization problems. I balance engineering agility with academic research rigor to deliver robust, well-documented solutions.
 
-- 🛠️ Currently developing systems that integrate backend frameworks with predictive and optimization models.
-- 🧪 Experienced in full-stack architectures, secure database management, exploratory data analysis (EDA), and model training.
+- 🛠️ Currently developing systems that integrate robust web frameworks with predictive and optimization models.
+- 🧪 Experienced in full-stack architectures, modern backend deployment, exploratory data analysis (EDA), and model training.
 - 🧠 Deeply interested in **Full-Stack Web Dev**, **Machine Learning Integration**, **Intelligent Architectures**, and **Applied AI Research**.
 
 ---
@@ -50,7 +50,6 @@ I focus on creating applications that are not only practical and maintainable bu
 ### Web Frameworks & Backends
 <div align="left">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/CodeIgniter_4-EF4223?style=flat-square&logo=codeigniter&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=api&logoColor=white" />
 </div>
@@ -82,15 +81,15 @@ I focus on creating applications that are not only practical and maintainable bu
 | **Automated Document Classification System** | An archivism support system that uses Naive Bayes to classify and archive incoming documents. | Web & ML Integration |
 | **Teacher Placement Recommendation System** | A smart system leveraging Reinforcement Learning (DQN) to optimize strategic teacher distribution in 3T regions. | Applied AI & Decision Support |
 | **Lightweight Smart Parking Detection** | A computer vision system implementing SVM and spatial-statistical features for smart parking. | Computer Vision & ML |
-| **Employee Assessment System** | A comprehensive company internal web app featuring multi-role authentication and robust migration structures. | Full-Stack Web Dev |
+| **Employee Assessment System** | A comprehensive company internal web app featuring multi-role authentication and robust migration structures built on top of Laravel. | Full-Stack Web Dev |
 
 ---
 
 ## What I'm Currently Focusing On
 
-- Designing seamless integrations between web platforms and predictive analytics models.
+- Designing seamless integrations between Laravel ecosystem and trained predictive models.
 - Deepening knowledge in Reinforcement Learning and robust Feature Engineering.
-- Writing clean, maintainable enterprise-ready code in Laravel and CodeIgniter 4.
+- Writing clean, maintainable enterprise-ready code using proper architecture patterns in Laravel.
 - Ensuring strong research methodology and evaluation metrics in every tech solution.
 
 ---
